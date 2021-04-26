@@ -1,0 +1,18 @@
+SMAP
+dasboard_jsp.java
+JSP
+*S JSP
+*F
++ 0 dasboard.jsp
+UserZone/dasboard.jsp
++ 1 header.jsp
+UserZone/header.jsp
++ 2 footer.jsp
+UserZone/footer.jsp
+*L
+5,52:50
+5#1,26:102
+56#0,72:127
+5#2,49:199
+127#0,7:247
+*E
